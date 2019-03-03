@@ -12,3 +12,5 @@ git tracks changes of files.
 
 Creating a new branch is quick and simple
 this ia new feature
+
+分支管理策略
