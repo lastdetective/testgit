@@ -8,3 +8,4 @@ change readme.txt
 2
 4
 3
+git tracks changes.
