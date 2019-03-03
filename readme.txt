@@ -11,4 +11,4 @@ change readme.txt
 git tracks changes of files.
 
 Creating a new branch is quick and simple
-master修改了
+this ia new feature
