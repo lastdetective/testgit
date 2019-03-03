@@ -10,4 +10,6 @@ change readme.txt
 3
 git tracks changes of files.
 
-Creating a new branch is quick and simple
+Creating a new branch is000 quick and simple
+
+newfeature修改了
